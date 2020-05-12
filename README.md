@@ -10,6 +10,7 @@ In this section you can see a few C# codes to make DLL for a Custom MW3 Server
 1. Put the file in the folder **\scripts**
 2. Add in the file **server.cfg** this -> *loadScript "FastLast.dll"*
 
+ # License
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
